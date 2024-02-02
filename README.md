@@ -10,10 +10,10 @@
 <h3> 👨🏻‍💻  About Me </h3>
 
 👋 Hi there! I'm Shivam Singh, a passionate Computer Science graduate with a B.Tech degree.<br>
-Currently immersed in the fascinating world of Machine Learning, Data Science, and AI through my internship journey.<br> 
+🤖 Currently immersed in the fascinating world of Machine Learning, Data Science, and AI through my internship journey.<br> 
 🚀 Excited about leveraging technology to solve real-world problems. <br>
 💻 Always eager to learn, collaborate, and contribute to innovative projects. Let's connect and explore the endless possibilities at the intersection of code and creativity!<br>
-🤖📊 #TechEnthusiast #MachineLearning #DataScience #AI #CodeExplorer
+📊 #TechEnthusiast #MachineLearning #DataScience #AI #CodeExplorer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
